@@ -58,8 +58,10 @@ static const char *new_files[] = {
     "src/mem/pcpu_cache.c",
     "src/dev/bcache.h",
     "src/dev/bcache.c",
+    "src/net/tcp_socket.h",
+    "src/net/tcp_socket.c",
 };
-static const int new_count = 6;
+static const int new_count = 8;
 
 static char axal_root[PATH_MAX];  /* Path to AXAL source tree */
 
