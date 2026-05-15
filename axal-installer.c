@@ -43,10 +43,12 @@ static const char *modified_files[] = {
     "src/sys/idt.c",
     "src/sys/lapic.h",
     "src/sys/lapic.c",
+    "src/sys/process.h",
+    "src/sys/process.c",
     "Makefile",
     "linker.ld",
 };
-static const int modified_count = 11;
+static const int modified_count = 13;
 
 /* Files that AXAL adds (don't exist in original) */
 static const char *new_files[] = {
