@@ -17,7 +17,7 @@ this is a "performance patch" for boredos. i say "performance" because i have ze
 ## install
 
 ```bash
-./axal-installer install /path/to/your/BoredOS
+./axal-installer install ~/path/to/your/BoredOS
 ```
 
 backs up original files first.
@@ -25,7 +25,7 @@ backs up original files first.
 ## rollback
 
 ```bash
-./axal-installer rollback /path/to/your/BoredOS
+./axal-installer rollback ~/path/to/your/BoredOS
 ```
 
 puts everything back. like i was never here
