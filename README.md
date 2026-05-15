@@ -2,7 +2,8 @@
 
 me larping as a kernel developer
 
-this is a "performance patch" for boredos. i say "performance" because i have zero benchmarks and im mostly just vibing with what sounds fast in my head. added some stuff, changed some stuff, it compiles, it links, it boots. thats the bar and we cleared it
+this is a "performance patch" for [boredos](https://github.com/boreddevnl/BoredOS)
+. i say "performance" because i have zero benchmarks and im mostly just vibing with what sounds fast in my head. added some stuff, changed some stuff, it compiles, it links, it boots. thats the bar and we cleared it
 
 ## what i did (the larping)
 
@@ -42,4 +43,4 @@ it boots. thats all i can promise. the rest is larping
 
 ## license
 
-gpl v3 same as boredos
+gpl v3 same as [boredos](https://github.com/boreddevnl/BoredOS)
