@@ -14,7 +14,7 @@ this is a "performance patch" for [boredos](https://github.com/boreddevnl/BoredO
 - slapped an lru block cache on disk reads. 256 sectors. its not much but its honest work
 - added tlb shootdown ipis for smp because that seemed important
 - bumped compiler target to x86-64-v2 for the extra instructions
-- based on [boredos](https://github.com/boreddevnl/BoredOS) kernel 4.2*
+- based on [boredos](https://github.com/boreddevnl/BoredOS) kernel 4*
 
 ## install
 
